@@ -39,7 +39,7 @@ var options = {
     value: "marks"
 };
 
-var output jsonToPivotjson(input, options); 
+var output = jsonToPivotjson(input, options); 
 
 console.log(output);
 
