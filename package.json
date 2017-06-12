@@ -1,6 +1,6 @@
 {
   "name": "json-to-pivot-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert JSON Arrays to Pivot JSON Arrays using Crossfilter",
   "license": "MIT",
   "keywords": [
