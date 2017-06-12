@@ -1,0 +1,36 @@
+{
+  "name": "json-to-pivot-json",
+  "version": "1.0.0",
+  "description": "Convert JSON Arrays to Pivot JSON Arrays using Crossfilter",
+  "license": "MIT",
+  "keywords": [
+    "analysis",
+    "excel",
+    "pivot",
+    "json",
+    "array",
+    "pivottable",
+    "table",
+    "crossfilter"
+  ],
+  "author": {
+    "name": "Himanshu Jain"
+  },
+  "contributors": [
+    {
+      "name": "Himanshu Jain"
+    }
+  ],
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/itsmejainh/json-to-pivot-json.git"
+  },
+  "devDependencies": {
+    "crossfilter": "^1.3.12"
+  },
+  "bugs": {
+    "url": "https://github.com/itsmejainh/json-to-pivot-json/issues"
+  },
+  "homepage": "https://github.com/itsmejainh/json-to-pivot-json"
+}
