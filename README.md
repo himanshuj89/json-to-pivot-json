@@ -63,7 +63,7 @@ Suggestions are welcome :)
 
 ## Buy me a drink
 
-paypal.me/hjain89 
+https://paypal.me/hjain89
 
 ## License
 
