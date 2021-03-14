@@ -61,6 +61,10 @@ Only supports single column, row and value for pivoting for now.
 Support of multiple rows and columns, but not sure how would output look like? 
 Suggestions are welcome :)
 
+## Buy me a drink
+
+paypal.me/hjain89 
+
 ## License
 
 Apache License 2.0
